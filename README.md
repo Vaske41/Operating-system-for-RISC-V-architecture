@@ -1,1 +1,1 @@
-# Operating system for RISC-V architecture
+# OS1
